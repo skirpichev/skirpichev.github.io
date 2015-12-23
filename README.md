@@ -1,2 +1,0 @@
-skirpichev.github.io
-====================

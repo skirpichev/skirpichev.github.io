@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Sergey Kirpichev's Blog (debian)</title><link>http://skirpichev.github.io/</link><description></description><atom:link type="application/rss+xml" href="http://skirpichev.github.io/ru/categories/debian.xml" rel="self"></atom:link><language>ru</language><lastBuildDate>Wed, 23 Dec 2015 13:31:13 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Test post</title><link>http://skirpichev.github.io/ru/posts/test-post.html</link><dc:creator>Sergey B Kirpichev</dc:creator><description>&lt;div&gt;&lt;p&gt;Write your post here.&lt;/p&gt;
+&lt;p&gt;Some list:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;one&lt;/li&gt;
+&lt;li&gt;two&lt;/li&gt;
+&lt;li&gt;&lt;span class="math"&gt;\(\lim\limits_{n\to\infty} \left(1 + \frac{1}{n}\right)^n = e\)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class="math"&gt;\(e^{ix} = \cos x + i\sin x\)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;xxx&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><guid>http://skirpichev.github.io/ru/posts/test-post.html</guid><pubDate>Tue, 20 Jan 2015 14:50:51 GMT</pubDate></item></channel></rss>

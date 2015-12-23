@@ -1,2 +1,4 @@
-User-agent: *
-Disallow: /
+Sitemap: http://skirpichev.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: skirpichev.github.io
