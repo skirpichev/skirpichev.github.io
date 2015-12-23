@@ -1,7 +1,7 @@
 .. title: Test post
 .. slug: test-post
 .. date: 2015-01-20 17:50:51 UTC+03:00
-.. tags: CAS, debian, sympy
+.. tags: mathjax
 .. category:
 .. link:
 .. description:

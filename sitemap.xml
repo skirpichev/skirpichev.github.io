@@ -7,68 +7,52 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://skirpichev.github.io/2015/index.html</loc>
-  <lastmod>2015-12-23T13:31:00Z</lastmod>
+  <lastmod>2015-12-23T14:50:00Z</lastmod>
  </url>
  <url>
   <loc>http://skirpichev.github.io/archive.html</loc>
-  <lastmod>2015-12-23T13:31:00Z</lastmod>
- </url>
- <url>
-  <loc>http://skirpichev.github.io/categories/cas.html</loc>
-  <lastmod>2015-12-23T13:31:00Z</lastmod>
- </url>
- <url>
-  <loc>http://skirpichev.github.io/categories/debian.html</loc>
-  <lastmod>2015-12-23T13:31:00Z</lastmod>
+  <lastmod>2015-12-23T14:50:00Z</lastmod>
  </url>
  <url>
   <loc>http://skirpichev.github.io/categories/index.html</loc>
-  <lastmod>2015-12-23T13:31:00Z</lastmod>
+  <lastmod>2015-12-23T14:50:00Z</lastmod>
  </url>
  <url>
-  <loc>http://skirpichev.github.io/categories/sympy.html</loc>
-  <lastmod>2015-12-23T13:31:00Z</lastmod>
+  <loc>http://skirpichev.github.io/categories/mathjax.html</loc>
+  <lastmod>2015-12-23T14:50:00Z</lastmod>
  </url>
  <url>
   <loc>http://skirpichev.github.io/index.html</loc>
-  <lastmod>2015-12-23T13:31:00Z</lastmod>
+  <lastmod>2015-12-23T14:50:00Z</lastmod>
  </url>
  <url>
   <loc>http://skirpichev.github.io/posts/test-post.html</loc>
-  <lastmod>2015-12-23T13:31:00Z</lastmod>
+  <lastmod>2015-12-23T14:50:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="ru" href="http://skirpichev.github.io/ru/posts/test-post.html" />
  </url>
  <url>
   <loc>http://skirpichev.github.io/ru/2015/index.html</loc>
-  <lastmod>2015-12-23T13:31:00Z</lastmod>
+  <lastmod>2015-12-23T14:50:00Z</lastmod>
  </url>
  <url>
   <loc>http://skirpichev.github.io/ru/archive.html</loc>
-  <lastmod>2015-12-23T13:31:00Z</lastmod>
- </url>
- <url>
-  <loc>http://skirpichev.github.io/ru/categories/cas.html</loc>
-  <lastmod>2015-12-23T13:31:00Z</lastmod>
- </url>
- <url>
-  <loc>http://skirpichev.github.io/ru/categories/debian.html</loc>
-  <lastmod>2015-12-23T13:31:00Z</lastmod>
+  <lastmod>2015-12-23T14:50:00Z</lastmod>
  </url>
  <url>
   <loc>http://skirpichev.github.io/ru/categories/index.html</loc>
-  <lastmod>2015-12-23T13:31:00Z</lastmod>
+  <lastmod>2015-12-23T14:50:00Z</lastmod>
  </url>
  <url>
-  <loc>http://skirpichev.github.io/ru/categories/sympy.html</loc>
-  <lastmod>2015-12-23T13:31:00Z</lastmod>
+  <loc>http://skirpichev.github.io/ru/categories/mathjax.html</loc>
+  <lastmod>2015-12-23T14:50:00Z</lastmod>
  </url>
  <url>
   <loc>http://skirpichev.github.io/ru/index.html</loc>
-  <lastmod>2015-12-23T13:31:00Z</lastmod>
+  <lastmod>2015-12-23T14:50:00Z</lastmod>
  </url>
  <url>
   <loc>http://skirpichev.github.io/ru/posts/test-post.html</loc>
-  <lastmod>2015-12-23T13:31:00Z</lastmod>
+  <lastmod>2015-12-23T14:50:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="http://skirpichev.github.io/posts/test-post.html" />
  </url>
 </urlset>

@@ -6,39 +6,23 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>http://skirpichev.github.io/categories/cas.xml</loc>
-  <lastmod>2015-12-23T13:31:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://skirpichev.github.io/categories/debian.xml</loc>
-  <lastmod>2015-12-23T13:31:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://skirpichev.github.io/categories/sympy.xml</loc>
-  <lastmod>2015-12-23T13:31:00Z</lastmod>
+  <loc>http://skirpichev.github.io/categories/mathjax.xml</loc>
+  <lastmod>2015-12-23T14:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://skirpichev.github.io/rss.xml</loc>
-  <lastmod>2015-12-23T13:31:00Z</lastmod>
+  <lastmod>2015-12-23T14:50:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://skirpichev.github.io/ru/categories/cas.xml</loc>
-  <lastmod>2015-12-23T13:31:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://skirpichev.github.io/ru/categories/debian.xml</loc>
-  <lastmod>2015-12-23T13:31:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://skirpichev.github.io/ru/categories/sympy.xml</loc>
-  <lastmod>2015-12-23T13:31:00Z</lastmod>
+  <loc>http://skirpichev.github.io/ru/categories/mathjax.xml</loc>
+  <lastmod>2015-12-23T14:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://skirpichev.github.io/ru/rss.xml</loc>
-  <lastmod>2015-12-23T13:31:00Z</lastmod>
+  <lastmod>2015-12-23T14:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://skirpichev.github.io/sitemap.xml</loc>
-  <lastmod>2015-12-23T13:31:00Z</lastmod>
+  <lastmod>2015-12-23T14:50:00Z</lastmod>
  </sitemap>
 </sitemapindex>
