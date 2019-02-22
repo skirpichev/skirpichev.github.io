@@ -1,22 +1,71 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="description" content="My blog">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Sergey Kirpichev's Blog</title>
-<link href="../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/ipython.min.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/nikola_ipython.css" rel="stylesheet" type="text/css">
+<title>Test notebook | Sergey Kirpichev's Blog</title>
+<link href="../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/ipython.min.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/nikola_ipython.css" rel="stylesheet" type="text/css">
 <meta name="theme-color" content="#5670d4">
 <meta name="generator" content="Nikola (getnikola.com)">
-<link rel="alternate" type="application/rss+xml" title="RSS (en)" hreflang="en" href="../rss.xml">
-<link rel="alternate" type="application/rss+xml" title="RSS (ru)" hreflang="ru" href="rss.xml">
-<link rel="canonical" href="http://skirpichev.github.io/ru/">
-<!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]-->
+<link rel="alternate" type="application/rss+xml" title="RSS (en)" hreflang="en" href="../../rss.xml">
+<link rel="alternate" type="application/rss+xml" title="RSS (ru)" hreflang="ru" href="../../ru/rss.xml">
+<link rel="canonical" href="http://skirpichev.github.io/blog/untitled/">
+<!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Sergey B Kirpichev">
+<link rel="prev" href="../../posts/test-post/" title="Test post" type="text/html">
+<meta property="og:site_name" content="Sergey Kirpichev's Blog">
+<meta property="og:title" content="Test notebook">
+<meta property="og:url" content="http://skirpichev.github.io/blog/untitled/">
+<meta property="og:description" content="Write your post here.
+
+
+
+
+
+
+In [1]:
+
+    
+from diofant import *
+from diofant.abc import x
+
+
+    
+
+
+
+
+
+
+In [2]:
+
+    
+p = x**7 + sqrt(2)*x - I
+r1 = RootOf(p, 1)
+
+
+    
+
+
+
+
+
+
+In [3]:
+
+    
+r1.is_real
+
+
+">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2019-02-22T13:22:30+03:00">
+<meta property="article:tag" content="testing">
+<link rel="alternate" hreflang="ru" href="../../ru/blog/untitled/">
 </head>
 <body>
-<a href="#content" class="sr-only sr-only-focusable">Перейти к главному содержимому</a>
+<a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
 
 <!-- Menubar -->
 
@@ -24,12 +73,12 @@
 <!-- This keeps the margins nice -->
         <div class="navbar-header">
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false">
-            <span class="sr-only">Включить навигацию</span>
+            <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="http://skirpichev.github.io/ru/">
+            <a class="navbar-brand" href="http://skirpichev.github.io/">
 
                 <span id="blog-title">Sergey Kirpichev's Blog</span>
             </a>
@@ -38,21 +87,24 @@
         <div class="collapse navbar-collapse" id="bs-navbar" aria-expanded="false">
             <ul class="nav navbar-nav">
 <li>
-<a href="archive.html">Архив</a>
+<a href="../../archive.html">Archive</a>
                 </li>
 <li>
-<a href="categories/index.html">Тэги</a>
+<a href="../../categories/index.html">Tags</a>
                 </li>
 <li>
-<a href="rss.xml">RSS лента</a>
+<a href="../../rss.xml">RSS feed</a>
 
                 
             </li>
 </ul>
 <ul class="nav navbar-nav navbar-right">
 <li>            </li>
-<li><a href="http://skirpichev.github.io/" rel="alternate" hreflang="en">English</a></li>
+<li><a href="http://skirpichev.github.io/ru/" rel="alternate" hreflang="ru">Русский</a></li>
 
+    <li>
+    <a href="index.ipynb" id="sourcelink">Source</a>
+    </li>
                 
             </ul>
 </div>
@@ -64,23 +116,24 @@
         <!--Body content-->
         <div class="row">
             
-    
-    
-<div class="postindex">
-    <article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="blog/untitled/" class="u-url">Test notebook</a></h1>
+<article class="post-text h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">Test notebook</a></h1>
+
         <div class="metadata">
             <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
-                Sergey B Kirpichev
+                    Sergey B Kirpichev
             </span></p>
             <p class="dateline">
-            <a href="blog/untitled/" rel="bookmark">
+            <a href="." rel="bookmark">
             <time class="published dt-published" datetime="2019-02-22T13:22:30+03:00" itemprop="datePublished" title="2019-02-22 13:22">2019-02-22 13:22</time></a>
             </p>
                 <p class="commentline">        
 
-        </p>
-</div>
-    </header><div class="e-content entry-content">
+                    </p>
+<p class="sourceline"><a href="index.ipynb" class="sourcelink">Source</a></p>
+
+        </div>
+        
+    </header><div class="e-content entry-content" itemprop="articleBody text">
     <div>
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
@@ -343,40 +396,19 @@
 </div>
 </div>
     </div>
-    </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="posts/test-post/" class="u-url">Test post</a></h1>
-        <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
-                Sergey B Kirpichev
-            </span></p>
-            <p class="dateline">
-            <a href="posts/test-post/" rel="bookmark">
-            <time class="published dt-published" datetime="2015-01-20T17:50:51+03:00" itemprop="datePublished" title="2015-01-20 17:50">2015-01-20 17:50</time></a>
-            </p>
-                <p class="commentline">        
+    <aside class="postpromonav"><nav><ul itemprop="keywords" class="tags">
+<li><a class="tag p-category" href="../../categories/testing/" rel="tag">testing</a></li>
+        </ul>
+<ul class="pager hidden-print">
+<li class="previous">
+                <a href="../../posts/test-post/" rel="prev" title="Test post">Previous post</a>
+            </li>
+        </ul></nav></aside><section class="comments hidden-print"><h2>Comments</h2>
+                
 
-        </p>
-</div>
-    </header><div class="e-content entry-content">
-    <div>
-<p>Write your post here.</p>
-<p>Some list:</p>
-<ul class="simple">
-<li>one</li>
-<li>two</li>
-<li><span class="math">\(\lim\limits_{n\to\infty} \left(1 + \frac{1}{n}\right)^n = e\)</span></li>
-<li><span class="math">\(e^{ix} = \cos x + i\sin x\)</span></li>
-<li>xxx</li>
-</ul>
-</div>
-    </div>
-    </article>
-</div>
-
-        
-
-                <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML" integrity="sha256-SDRP1VVYu+tgAGKhddBSl5+ezofHKZeI+OzxakbIe/Y=" crossorigin="anonymous"></script><script type="text/x-mathjax-config">
+        </section><script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML" integrity="sha256-SDRP1VVYu+tgAGKhddBSl5+ezofHKZeI+OzxakbIe/Y=" crossorigin="anonymous"></script><script type="text/x-mathjax-config">
         MathJax.Hub.Config({tex2jax: {inlineMath: [['$latex ','$'], ['\\(','\\)']]}});
-        </script>
+        </script></article>
 </div>
         <!--End of body content-->
 
@@ -388,8 +420,8 @@
 </div>
 </div>
 
-            <script src="../assets/js/all-nocdn.js"></script><!-- fancy dates --><script>
-    moment.locale("ru");
+            <script src="../../assets/js/all-nocdn.js"></script><!-- fancy dates --><script>
+    moment.locale("en");
     fancydates(0, "YYYY-MM-DD HH:mm");
     </script><!-- end fancy dates --><script>
     baguetteBox.run('div#content', {

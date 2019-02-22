@@ -7,15 +7,23 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://skirpichev.github.io/</loc>
-  <lastmod>2019-02-22T07:52:00Z</lastmod>
+  <lastmod>2019-02-22T10:35:00Z</lastmod>
  </url>
  <url>
   <loc>http://skirpichev.github.io/2015/</loc>
   <lastmod>2019-02-22T07:52:00Z</lastmod>
  </url>
  <url>
+  <loc>http://skirpichev.github.io/2019/</loc>
+  <lastmod>2019-02-22T10:35:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://skirpichev.github.io/archive.html</loc>
-  <lastmod>2019-02-22T09:55:00Z</lastmod>
+  <lastmod>2019-02-22T10:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://skirpichev.github.io/blog/untitled/</loc>
+  <lastmod>2019-02-22T10:35:00Z</lastmod>
  </url>
  <url>
   <loc>http://skirpichev.github.io/categories/</loc>
@@ -31,15 +39,24 @@
  </url>
  <url>
   <loc>http://skirpichev.github.io/ru/</loc>
-  <lastmod>2019-02-22T07:52:00Z</lastmod>
+  <lastmod>2019-02-22T10:35:00Z</lastmod>
  </url>
  <url>
   <loc>http://skirpichev.github.io/ru/2015/</loc>
   <lastmod>2019-02-22T07:52:00Z</lastmod>
  </url>
  <url>
+  <loc>http://skirpichev.github.io/ru/2019/</loc>
+  <lastmod>2019-02-22T10:35:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://skirpichev.github.io/ru/archive.html</loc>
-  <lastmod>2019-02-22T09:55:00Z</lastmod>
+  <lastmod>2019-02-22T10:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://skirpichev.github.io/ru/blog/untitled/</loc>
+  <lastmod>2019-02-22T10:35:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="http://skirpichev.github.io/blog/untitled/" />
  </url>
  <url>
   <loc>http://skirpichev.github.io/ru/categories/</loc>
