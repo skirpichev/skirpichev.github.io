@@ -3,6 +3,7 @@
 .. date: 2015-01-20 17:50:51 UTC+03:00
 .. has_math: yes
 .. category:
+.. tags: testing
 .. link:
 .. description:
 .. type: text
