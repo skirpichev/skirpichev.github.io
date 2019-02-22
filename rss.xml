@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sergey Kirpichev's Blog</title><link>http://skirpichev.github.io/</link><description>My blog</description><atom:link href="http://skirpichev.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Fri, 22 Feb 2019 07:52:32 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Test post</title><link>http://skirpichev.github.io/posts/test-post/</link><dc:creator>Sergey B Kirpichev</dc:creator><description>&lt;div&gt;&lt;p&gt;Write your post here.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sergey Kirpichev's Blog</title><link>http://skirpichev.github.io/</link><description>My blog</description><atom:link href="http://skirpichev.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Fri, 22 Feb 2019 08:35:34 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Test post</title><link>http://skirpichev.github.io/posts/test-post/</link><dc:creator>Sergey B Kirpichev</dc:creator><description>&lt;div&gt;&lt;p&gt;Write your post here.&lt;/p&gt;
 &lt;p&gt;Some list:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;one&lt;/li&gt;
@@ -7,4 +7,4 @@
 &lt;li&gt;&lt;span class="math"&gt;\(\lim\limits_{n\to\infty} \left(1 + \frac{1}{n}\right)^n = e\)&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span class="math"&gt;\(e^{ix} = \cos x + i\sin x\)&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;xxx&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><category>mathjax</category><guid>http://skirpichev.github.io/posts/test-post/</guid><pubDate>Tue, 20 Jan 2015 14:50:51 GMT</pubDate></item></channel></rss>
+&lt;/ul&gt;&lt;/div&gt;</description><guid>http://skirpichev.github.io/posts/test-post/</guid><pubDate>Tue, 20 Jan 2015 14:50:51 GMT</pubDate></item></channel></rss>
