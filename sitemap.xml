@@ -6,69 +6,69 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://skirpichev.github.io/</loc>
+  <loc>https://skirpichev.github.io/</loc>
   <lastmod>2019-02-22T10:35:00Z</lastmod>
  </url>
  <url>
-  <loc>http://skirpichev.github.io/2015/</loc>
+  <loc>https://skirpichev.github.io/2015/</loc>
   <lastmod>2019-02-22T07:52:00Z</lastmod>
  </url>
  <url>
-  <loc>http://skirpichev.github.io/2019/</loc>
+  <loc>https://skirpichev.github.io/2019/</loc>
   <lastmod>2019-02-22T10:35:00Z</lastmod>
  </url>
  <url>
-  <loc>http://skirpichev.github.io/archive.html</loc>
-  <lastmod>2019-02-22T11:57:00Z</lastmod>
+  <loc>https://skirpichev.github.io/archive.html</loc>
+  <lastmod>2019-02-22T12:05:00Z</lastmod>
  </url>
  <url>
-  <loc>http://skirpichev.github.io/blog/untitled/</loc>
+  <loc>https://skirpichev.github.io/blog/untitled/</loc>
   <lastmod>2019-02-22T10:35:00Z</lastmod>
  </url>
  <url>
-  <loc>http://skirpichev.github.io/categories/</loc>
+  <loc>https://skirpichev.github.io/categories/</loc>
   <lastmod>2019-02-22T08:44:00Z</lastmod>
  </url>
  <url>
-  <loc>http://skirpichev.github.io/categories/testing/</loc>
+  <loc>https://skirpichev.github.io/categories/testing/</loc>
   <lastmod>2019-02-22T08:44:00Z</lastmod>
  </url>
  <url>
-  <loc>http://skirpichev.github.io/posts/test-post/</loc>
+  <loc>https://skirpichev.github.io/posts/test-post/</loc>
   <lastmod>2019-02-22T07:52:00Z</lastmod>
  </url>
  <url>
-  <loc>http://skirpichev.github.io/ru/</loc>
+  <loc>https://skirpichev.github.io/ru/</loc>
   <lastmod>2019-02-22T10:35:00Z</lastmod>
  </url>
  <url>
-  <loc>http://skirpichev.github.io/ru/2015/</loc>
+  <loc>https://skirpichev.github.io/ru/2015/</loc>
   <lastmod>2019-02-22T07:52:00Z</lastmod>
  </url>
  <url>
-  <loc>http://skirpichev.github.io/ru/2019/</loc>
+  <loc>https://skirpichev.github.io/ru/2019/</loc>
   <lastmod>2019-02-22T10:35:00Z</lastmod>
  </url>
  <url>
-  <loc>http://skirpichev.github.io/ru/archive.html</loc>
-  <lastmod>2019-02-22T11:57:00Z</lastmod>
+  <loc>https://skirpichev.github.io/ru/archive.html</loc>
+  <lastmod>2019-02-22T12:05:00Z</lastmod>
  </url>
  <url>
-  <loc>http://skirpichev.github.io/ru/blog/untitled/</loc>
+  <loc>https://skirpichev.github.io/ru/blog/untitled/</loc>
   <lastmod>2019-02-22T10:35:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="http://skirpichev.github.io/blog/untitled/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://skirpichev.github.io/blog/untitled/" />
  </url>
  <url>
-  <loc>http://skirpichev.github.io/ru/categories/</loc>
+  <loc>https://skirpichev.github.io/ru/categories/</loc>
   <lastmod>2019-02-22T08:44:00Z</lastmod>
  </url>
  <url>
-  <loc>http://skirpichev.github.io/ru/categories/testing/</loc>
+  <loc>https://skirpichev.github.io/ru/categories/testing/</loc>
   <lastmod>2019-02-22T08:44:00Z</lastmod>
  </url>
  <url>
-  <loc>http://skirpichev.github.io/ru/posts/test-post/</loc>
+  <loc>https://skirpichev.github.io/ru/posts/test-post/</loc>
   <lastmod>2019-02-22T07:52:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="http://skirpichev.github.io/posts/test-post/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://skirpichev.github.io/posts/test-post/" />
  </url>
 </urlset>

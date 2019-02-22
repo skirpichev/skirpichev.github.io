@@ -6,23 +6,23 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>http://skirpichev.github.io/categories/testing.xml</loc>
-  <lastmod>2019-02-22T10:57:00Z</lastmod>
+  <loc>https://skirpichev.github.io/categories/testing.xml</loc>
+  <lastmod>2019-02-22T12:05:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://skirpichev.github.io/rss.xml</loc>
-  <lastmod>2019-02-22T10:57:00Z</lastmod>
+  <loc>https://skirpichev.github.io/rss.xml</loc>
+  <lastmod>2019-02-22T12:05:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://skirpichev.github.io/ru/categories/testing.xml</loc>
-  <lastmod>2019-02-22T10:57:00Z</lastmod>
+  <loc>https://skirpichev.github.io/ru/categories/testing.xml</loc>
+  <lastmod>2019-02-22T12:05:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://skirpichev.github.io/ru/rss.xml</loc>
-  <lastmod>2019-02-22T10:57:00Z</lastmod>
+  <loc>https://skirpichev.github.io/ru/rss.xml</loc>
+  <lastmod>2019-02-22T12:05:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://skirpichev.github.io/sitemap.xml</loc>
-  <lastmod>2019-02-22T11:57:00Z</lastmod>
+  <loc>https://skirpichev.github.io/sitemap.xml</loc>
+  <lastmod>2019-02-22T12:05:00Z</lastmod>
  </sitemap>
 </sitemapindex>
